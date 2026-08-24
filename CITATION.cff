@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release described by this file."
+title: "IVD Segmentation Research Code"
+type: software
+version: 0.1.0
+repository-code: "https://github.com/Mahad-M/IVDSeg"
+authors:
+  - family-names: Majeed
+    given-names: Mahad
+    email: mahadmajeed@gmail.com
+license: MIT
+abstract: "Research pipeline for four-modality 2.5D intervertebral-disc segmentation on IVDM3Seg."
