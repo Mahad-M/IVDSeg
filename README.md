@@ -32,4 +32,4 @@ Only researchers independently authorized to access IVDM3Seg should create a loc
 
 ## Citation and licence
 
-The code is available under the MIT License. The source repository is `https://github.com/Mahad-M/IVDSeg`. Please cite the versioned archival release described in `CITATION.cff`; its DOI will be added after archival publication.
+The code is available under the MIT License. The source repository is `https://github.com/Mahad-M/IVDSeg`. Please cite the archived v0.1.0 release: doi:10.5281/zenodo.22083450 (https://doi.org/10.5281/zenodo.22083450).
