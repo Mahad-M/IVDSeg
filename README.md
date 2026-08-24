@@ -1,4 +1,5 @@
 # IVD Segmentation Research Code
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22083450.svg)](https://doi.org/10.5281/zenodo.22083450)
 
 This repository contains the reproducible source code for four-modality 2.5D intervertebral-disc segmentation experiments on IVDM3Seg. It is a **code-only** release.
 

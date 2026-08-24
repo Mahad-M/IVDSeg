@@ -3,6 +3,7 @@ message: "If you use this code, please cite the archived release described by th
 title: "IVD Segmentation Research Code"
 type: software
 version: 0.1.0
+doi: 10.5281/zenodo.22083450
 repository-code: "https://github.com/Mahad-M/IVDSeg"
 authors:
   - family-names: Majeed
